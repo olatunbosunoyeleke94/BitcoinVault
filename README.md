@@ -19,6 +19,12 @@ Working
 ✅ Creating Lightning invoices (receiving payments)
 ✅ Basic wallet interface with transaction history
 
+Backend:
+
+- Express.js server: Running on Node.js, handling API routes and requests
+- In-memory storage (MemStorage): A non-persistent database that stores wallet data, transactions, and Lightning Network information in memory
+- LNBits API integration: For Lightning Network functionality (creating invoices and making payments)
+
 Known Limitations
 
 Lightning Network Invoices
