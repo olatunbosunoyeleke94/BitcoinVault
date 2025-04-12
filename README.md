@@ -1,4 +1,7 @@
-Bitcoin Wallet with Lightning Network Support
+Bitcoin Wallet with Lightning Network Support:
+
+<img width="1402" alt="Screenshot 2025-04-12 at 10 37 33" src="https://github.com/user-attachments/assets/cac94f32-dbf3-4cd6-952d-cdc19546cf7b" />
+
 
 A cutting-edge non-custodial Bitcoin wallet with advanced Lightning Network capabilities, designed for seamless and secure cryptocurrency transactions.
 
