@@ -45,6 +45,9 @@ Integration with a more comprehensive Lightning Network service that provides pr
 Improved error handling for failed Lightning payments
 Support for additional Lightning payment options
 
+![Uploading Screenshot 2025-04-12 at 10.38.09.png…]()
+
+
 Getting Started
 
 Prerequisites
